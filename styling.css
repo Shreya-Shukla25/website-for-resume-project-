@@ -1,0 +1,168 @@
+h1 {
+  color: #2382B8;
+  font-weight: bold;
+  font-family: Montserrat;
+  font-size: 50px;
+}
+h2 {
+color: #2382B8;
+}
+h3 {
+  color: #2382B8;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.navbar {
+  padding-bottom: 40px;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 40px;
+  font-weight: bold;
+}
+.navbar-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.navbar-link {
+  font-family: "Montserrat-light";
+  font-size: 26px;
+}
+#title {
+  background-color: #A6E3E9;
+  height: 750px;
+}
+.profile-img {
+  height: 410px;
+  width: 400px;
+  border-radius:400px;
+}
+.starter1 {
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.starter2 {
+  text-align: center;
+  padding-top: 37px;
+  width: 700px;
+  font-size: 26px;
+  line-height: 1.5;
+}
+#about {
+  background-color: #E8FFFF;
+  height: 400px;
+}
+.education {
+  text-align: center;
+  padding-top: 70px;
+}
+.edu {
+  padding-top: 50px;
+  color: #2382B8;
+}
+.edu1 {
+line-height: 1.6;
+padding-left: 70px;
+padding-right: 70px;
+color: #2382B8;
+}
+#Portfolios {
+  text-align: center;
+  background-color: #A6E3E9;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.Portfolios1 {
+padding-top: 80px;
+padding-bottom: 80px;
+text-align: left;
+}
+.project-img {
+width: 25%;
+float: left;
+margin-right: 90px;
+}
+.internship-img {
+width: 25%;
+float: right;
+margin-left: 90px;
+}
+.certificate-img {
+width: 25%;
+float: left;
+margin-right: 90px;
+}
+.port {
+  text-align: center;
+}
+#skill {
+  background-color: #E8FFFF;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.skills {
+  text-align: center;
+  font-size: 90px;
+}
+.skill1 {
+  font-size: 60px;
+}
+.active-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+}
+.time-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+}
+.creative-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+}
+.leader-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+}
+#Expertise {
+  background-color: #A6E3E9;
+  text-align: center;
+}
+.Expertise1 {
+  text-align: left;
+  font-size: 10px;
+}
+.expertise-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
+.carousel-item {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 140px;
+  padding-right: 140px;
+
+  line-height: 2;
+}
+#contact {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #2382B8;
+}
+.contact-me {
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+.footer-img {
+  margin: 0.6%;
+  font-size: 30px;
+}
